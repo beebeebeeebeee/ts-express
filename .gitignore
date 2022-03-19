@@ -1,0 +1,11 @@
+# ts output file
+dist
+
+# node_modules
+node_modules
+
+# .lock files
+*.lock
+
+# .log files
+*.log
